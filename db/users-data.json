@@ -1,0 +1,23 @@
+[
+  {
+    "uid": 1,
+    "firstname": "erfan",
+    "lastname": "ghazimoradi",
+    "age": "22",
+    "isVarified": false
+  },
+  {
+    "uid": 2,
+    "firstname": "ramin",
+    "lastname": "afhami",
+    "age": "32",
+    "isVarified": true
+  },
+  {
+    "uid": 3,
+    "firstname": "ali",
+    "lastname": "rajabi",
+    "age": "22",
+    "isVarified": true
+  }
+]
